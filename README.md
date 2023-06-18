@@ -10,6 +10,70 @@
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=JavisNgo&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️Dev Quote
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+
+    <style>
+        * {
+            padding: 0;
+            margin: 0;
+            box-sizing: border-box;
+        }
+
+        .container {
+            font-family: Poppins, Arial, Helvetica, sans-serif;
+            padding: 20px;
+            width: 600px;
+            background-color: #141321;
+            border: 1px solid rgba(0, 0, 0, 0.2);
+            border-radius: 10px;
+        }
+
+        .container h3 {
+            font-size: 19px;
+            margin-bottom: 5px;
+            font-weight: 500;
+            font-style: oblique;
+            color: #a9fef7;
+        }
+
+        .container h3::before {
+            content: open-quote;
+            font-size: 25px;
+            color: #f8d847;
+        }
+
+        .container h3::after {
+            content: close-quote;
+            vertical-align: sub;
+            font-size: 25px;
+            color: #f8d847;
+        }
+
+        .container p {
+            font-style: italic;
+            padding: 5px;
+            text-align: right;
+            color: #fe428e;
+        }
+    </style>
+</head>
+
+
+
+<body>
+    <div class="container">
+        <h3> Sống Thực Tế Giữa Đời Thực Dụng</h3>
+        <p>- Dịch giả B.Nhung</p>
+    </div>
+</body>
+
+</html>
 
