@@ -1,3 +1,5 @@
+# ✍️Dev Quote
+"Sống Thực Tế Giữa Đời Thực Dụng" -Dịch giả B.Nhung
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/tri-duc-ngo-780636252) 
@@ -9,7 +11,3 @@
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=JavisNgo&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️Dev Quote
-Sống Thực Tế Giữa Đời Thực Dụng
-
