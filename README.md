@@ -9,4 +9,4 @@
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JavisNgo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div style="width:100%;height:0;padding-bottom:90%;position:relative;"><iframe src="https://giphy.com/embed/BSx6mzbW1ew7K" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/stars-rainbows-poptart-BSx6mzbW1ew7K">via GIPHY</a></p>
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXFzaml6Z2R6Y2swbjQ2ejRrbWtycTg3amRjNXR6ZXh6NnN6ZXRweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BSx6mzbW1ew7K/giphy.gif)
