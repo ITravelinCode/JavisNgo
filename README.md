@@ -9,4 +9,4 @@
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JavisNgo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![Follow Mohamed El-Qassas GitHub](https://avatars.githubusercontent.com/u/49816567?s=96&v=4)](https://github.com/melqassas/)
+[![Follow Mohamed El-Qassas GitHub](https://giphy.com/embed/BSx6mzbW1ew7K)](https://github.com/melqassas/)
