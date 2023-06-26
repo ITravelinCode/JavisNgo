@@ -9,4 +9,4 @@
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JavisNgo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![Follow Mohamed El-Qassas GitHub](https://giphy.com/embed/BSx6mzbW1ew7K)](https://github.com/melqassas/)
+<div style="width:100%;height:0;padding-bottom:90%;position:relative;"><iframe src="https://giphy.com/embed/BSx6mzbW1ew7K" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/stars-rainbows-poptart-BSx6mzbW1ew7K">via GIPHY</a></p>
