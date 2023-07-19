@@ -1,5 +1,5 @@
 # ✍️Dev Quote
-"Sống Thực Tế Giữa Đời Thực Dụng" -Dịch giả B.Nhung
+"Sống Thực Tế Giữa Đời Thực Dụng"
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/tri-duc-ngo-780636252) 
