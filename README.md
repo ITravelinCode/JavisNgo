@@ -1,4 +1,4 @@
-# ✍️Dev Quote
+# ✍️Quote
 "Sống Thực Tế Giữa Đời Thực Dụng"
 
 ## 🌐Socials
