@@ -3,7 +3,8 @@
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tri-duc-ngo-780636252) 
-[![Google Cloud Skills Boost](https://img.shields.io/badge/google%20cloud-skill%20boost-blue
+[![Google Cloud Skills Boost]([https://img.shields.io/badge/google%20cloud-skill%20boost-blue](https://img.shields.io/badge/GoogleCloud-blue?logo=googlecloud&logoColor=white
+)
 )](https://www.cloudskillsboost.google/public_profiles/c8272a39-3c83-45f9-b030-f7bfd53d1292)
 
 # 💻Tech Stack
